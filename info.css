@@ -1,0 +1,48 @@
+/* почему то не срабатывает */
+@media (max-width: 576px) {
+    .info {
+        display: block;
+    }
+}
+
+.info {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 18px;
+    display: flex;
+    margin: 20px 20px;
+    padding: 0px;
+   
+
+}
+
+.ava {
+    width: 200px;
+    border-radius: 20%;
+    display: block;
+    margin: 20px;
+}
+
+
+.info h2 {
+
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+
+.info p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-style: italic;
+}
+#telega {
+    text-decoration:underline;
+}
+
+.info-text{
+display: block;
+
+}
+
+
+
+

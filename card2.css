@@ -1,0 +1,23 @@
+.card2 {
+    background:rgb(240, 250, 194);
+    margin: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+    
+}
+
+.table1 {
+width: 100%;
+}
+
+.table1 td {
+    padding-bottom: 10px;
+}
+
+.table1 td:nth-child(2),
+.table1 td:nth-child(3) {
+    color: #86898f
+
+}

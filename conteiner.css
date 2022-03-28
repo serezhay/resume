@@ -1,0 +1,15 @@
+ a:hover { 
+    font-style: inherit;
+    text-decoration: none;
+    color: red;
+
+}
+
+a:active{
+    color: blueviolet;
+}
+
+.conteiner {
+background: #eee;
+margin: 20px;
+}
